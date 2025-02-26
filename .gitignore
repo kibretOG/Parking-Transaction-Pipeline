@@ -1,0 +1,5 @@
+keys/
+terraform/
+.env
+airflow_settings.yaml
+terraform.tfstate
